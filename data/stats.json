@@ -1,0 +1,15 @@
+{
+  "capturedAt": "2026-09-24T15:47:17.344Z",
+  "commitsLast24h": 73,
+  "sitePages": 400,
+  "qualityRatings": {
+    "count": 7,
+    "median": 1
+  },
+  "machineCosts": {
+    "asOf": "2026-08-28",
+    "subscriptionsUsdPerMonth": 590,
+    "paidDuringBuildUsd": 1250,
+    "apiEquivalentUsd": 27500
+  }
+}

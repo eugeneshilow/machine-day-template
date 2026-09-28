@@ -1,0 +1,258 @@
+[
+  {
+    "sha": "007b9b3",
+    "at": "2026-09-22T19:18:06.000Z",
+    "zone": "docs",
+    "subject": "Landing build log: beat 35 — header pill leads to the landing",
+    "additions": 10,
+    "deletions": 0
+  },
+  {
+    "sha": "edde0bc",
+    "at": "2026-09-22T18:24:00.000Z",
+    "zone": "front",
+    "subject": "Material covers are the brightest asset from each article (#2460)",
+    "additions": 27,
+    "deletions": 42
+  },
+  {
+    "sha": "33493c4",
+    "at": "2026-09-22T18:03:22.000Z",
+    "zone": "front",
+    "subject": "Free material covers built in code instead of page screenshots (#2458)",
+    "additions": 59,
+    "deletions": 25
+  },
+  {
+    "sha": "098d42d",
+    "at": "2026-09-22T18:02:35.000Z",
+    "zone": "docs",
+    "subject": "Construction diary: Entry 40 — Showcase: logo lesson in inventory",
+    "additions": 27,
+    "deletions": 0
+  },
+  {
+    "sha": "941e3ef",
+    "at": "2026-09-22T17:52:35.000Z",
+    "zone": "docs",
+    "subject": "Landing build log: beat 32 — two merges, gateway, three-way check",
+    "additions": 15,
+    "deletions": 0
+  },
+  {
+    "sha": "680c47a",
+    "at": "2026-09-22T17:28:43.000Z",
+    "zone": "docs",
+    "subject": "Construction diary: Entry 38 — Showcase: brand atlas lesson in inventory, scrollbar-free overlay",
+    "additions": 27,
+    "deletions": 0
+  },
+  {
+    "sha": "a3f895f",
+    "at": "2026-09-22T16:56:56.000Z",
+    "zone": "docs",
+    "subject": "Construction diary: Entry 37 — showcase stripe at hero edges, header and footer on V1 and V2",
+    "additions": 22,
+    "deletions": 0
+  },
+  {
+    "sha": "253810c",
+    "at": "2026-09-22T16:48:32.000Z",
+    "zone": "docs",
+    "subject": "Construction diary: Entry 36 — atlas-style grid overlay, tags and label",
+    "additions": 20,
+    "deletions": 0
+  },
+  {
+    "sha": "913ec3b",
+    "at": "2026-09-22T16:10:37.000Z",
+    "zone": "docs",
+    "subject": "Build Log: Entry 33 — Codex logo playground, 12 pairs in Atlas playground mode",
+    "additions": 32,
+    "deletions": 0
+  },
+  {
+    "sha": "b7ee84c",
+    "at": "2026-09-22T15:37:24.000Z",
+    "zone": "docs",
+    "subject": "Build Log: Entry 31 — factory brand zone, logo canon, porter, favicon, glass",
+    "additions": 33,
+    "deletions": 0
+  },
+  {
+    "sha": "46832e3",
+    "at": "2026-09-22T15:11:39.000Z",
+    "zone": "docs",
+    "subject": "Build Log: Entry 30 — Storefront: one-handed page lesson, build measurements, receiver findings",
+    "additions": 40,
+    "deletions": 0
+  },
+  {
+    "sha": "7d28ffa",
+    "at": "2026-09-22T13:22:10.000Z",
+    "zone": "docs",
+    "subject": "Build Log: Entry 29 — storefront completed in one pass (PR #28); Entry 28 time in MSK",
+    "additions": 47,
+    "deletions": 1
+  },
+  {
+    "sha": "56be02d",
+    "at": "2026-09-22T12:43:44.000Z",
+    "zone": "docs",
+    "subject": "Build Log: Entry 28 — unified storefront style, pill header set the language, one-handed set",
+    "additions": 38,
+    "deletions": 0
+  },
+  {
+    "sha": "c1d52ff",
+    "at": "2026-09-22T10:47:36.000Z",
+    "zone": "docs",
+    "subject": "Build Log: Entry 26 — storefront hero in production, shadcn in factory, canonical block order (PR #27)",
+    "additions": 35,
+    "deletions": 0
+  },
+  {
+    "sha": "4ae5c97",
+    "at": "2026-09-22T10:35:07.000Z",
+    "zone": "docs",
+    "subject": "What it gives: panel no longer captures the wheel; section background matches page background (#2454)",
+    "additions": 20,
+    "deletions": 2
+  },
+  {
+    "sha": "a5ebf26",
+    "at": "2026-09-22T10:12:27.000Z",
+    "zone": "front",
+    "subject": "Landing Program section: approved playground set in production (#2453)",
+    "additions": 637,
+    "deletions": 23
+  },
+  {
+    "sha": "e83ded9",
+    "at": "2026-09-22T09:51:46.000Z",
+    "zone": "back",
+    "subject": "Table of contents: lesson minutes move from header into the tree copy (#2452)",
+    "additions": 85,
+    "deletions": 5
+  },
+  {
+    "sha": "6a7595c",
+    "at": "2026-09-22T09:40:54.000Z",
+    "zone": "docs",
+    "subject": "Build Log: Entry 22 — Lesson 4 Video numbers and ideas, version 1 draft, receiver, frames",
+    "additions": 34,
+    "deletions": 0
+  },
+  {
+    "sha": "f1fd1d9",
+    "at": "2026-09-21T14:08:29.000Z",
+    "zone": "docs",
+    "subject": "Build log: Entry 12 — two lessons for Launching the Vertical Video Pipeline written, with repository-trace assignments",
+    "additions": 68,
+    "deletions": 0
+  },
+  {
+    "sha": "33ca114",
+    "at": "2026-09-21T11:29:10.000Z",
+    "zone": "docs",
+    "subject": "Build log: Entry 11, part 11 — strong expression level, new version and deployment",
+    "additions": 19,
+    "deletions": 0
+  },
+  {
+    "sha": "0fedc84",
+    "at": "2026-09-21T10:56:29.000Z",
+    "zone": "docs",
+    "subject": "Build log: Entry 11, part 9 — continuous flow without pauses, PR #15 merged",
+    "additions": 27,
+    "deletions": 0
+  },
+  {
+    "sha": "4669ca4",
+    "at": "2026-09-21T10:20:13.000Z",
+    "zone": "docs",
+    "subject": "reel-sixty-seconds: a video under 60 seconds uses text, not speed; diary — Entry 11, part 6",
+    "additions": 39,
+    "deletions": 0
+  },
+  {
+    "sha": "2961fb8",
+    "at": "2026-09-21T08:06:03.000Z",
+    "zone": "docs",
+    "subject": "Build diary: Entry 10, part 1 — subtitle timing measured, Whisper diagnosed, audio-length beat boundaries chosen",
+    "additions": 40,
+    "deletions": 0
+  },
+  {
+    "sha": "735ef5e",
+    "at": "2026-09-20T19:18:38.000Z",
+    "zone": "docs",
+    "subject": "Add local Yi logo playground with live placements and export (#2146)",
+    "additions": 2351,
+    "deletions": 5
+  },
+  {
+    "sha": "b0c616a",
+    "at": "2026-09-20T18:33:38.000Z",
+    "zone": "docs",
+    "subject": "Build diary: Entry 8, part 2 — robot-knife final, PR #9 merged, builder report verbatim",
+    "additions": 102,
+    "deletions": 0
+  },
+  {
+    "sha": "e3dba72",
+    "at": "2026-09-20T17:41:54.000Z",
+    "zone": "docs",
+    "subject": "Short-video research moved to the factory repository: research folders removed, refs.md now points to GitHub; Build Log Entry 7",
+    "additions": 75,
+    "deletions": 3918
+  },
+  {
+    "sha": "70a0ca8",
+    "at": "2026-09-20T16:52:31.000Z",
+    "zone": "docs",
+    "subject": "Build Log: Entry 6 — beat 3: who hosts, talking head plus news; three-angle research as lesson material",
+    "additions": 70,
+    "deletions": 0
+  },
+  {
+    "sha": "6912da8",
+    "at": "2026-09-20T13:31:45.000Z",
+    "zone": "docs",
+    "subject": "Build Log, Entry 4: first post sent automatically on the first cron tick; Lesson 8.1 v8 links to the repository (#2432)",
+    "additions": 7,
+    "deletions": 0
+  },
+  {
+    "sha": "b66819e",
+    "at": "2026-09-20T09:01:58.000Z",
+    "zone": "back",
+    "subject": "Lesson: doc block renders a complete document in small type with section hints (#2427)",
+    "additions": 213,
+    "deletions": 0
+  },
+  {
+    "sha": "46c64f5",
+    "at": "2026-09-20T08:42:34.000Z",
+    "zone": "back",
+    "subject": "Lesson frame carousel: ::: gallery block with a tool-card skin",
+    "additions": 305,
+    "deletions": 13
+  },
+  {
+    "sha": "0324eb3",
+    "at": "2026-09-20T08:00:04.000Z",
+    "zone": "docs",
+    "subject": "Build diary: Lesson field placed in entries 0–2",
+    "additions": 7,
+    "deletions": 6
+  },
+  {
+    "sha": "2b3ff9d",
+    "at": "2026-09-20T07:59:17.000Z",
+    "zone": "docs",
+    "subject": "Build diary: entries 1–2 link to lesson 8.1; log timestamps use Moscow time",
+    "additions": 8,
+    "deletions": 8
+  }
+]

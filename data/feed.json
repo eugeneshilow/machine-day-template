@@ -1,0 +1,2860 @@
+{
+ "day": "2026-09-23",
+ "funnel": {
+  "asOf": "2026-09-23",
+  "found": 43261,
+  "served": 5980,
+  "taken": 10379
+ },
+ "events": [
+  {
+   "t": "2026-09-22T21:09:50.785Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Agent coding got cheaper: GPT-6 Sol and Luna API prices are down 50%",
+   "href": "https://vibecoding.tech/news/2026/09/22/gpt-6-sol-luna-pricing"
+  },
+  {
+   "t": "2026-09-22T21:12:05.082Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "GitHub Copilot gets two more GPT-6 models: Sol and Luna now available to everyone",
+   "href": "https://vibecoding.tech/news/2026/09/22/gpt-6-sol-luna-copilot"
+  },
+  {
+   "t": "2026-09-22T21:14:23.251Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "GPT-6 Sol becomes cheaper for agents: OpenAI cuts API prices by 50%",
+   "href": "https://vibecoding.tech/news/2026/09/22/gpt-6-sol-codex-pricing"
+  },
+  {
+   "t": "2026-09-22T21:20:37.378Z",
+   "kind": "in",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T21:20:46.363Z",
+   "kind": "in",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T21:26:55.702Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T21:26:55.702Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T21:26:55.702Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T21:26:55.702Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T21:26:55.702Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T21:26:55.702Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T21:26:55.702Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T21:26:55.702Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T21:26:55.702Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T21:26:55.702Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T21:26:55.702Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T21:26:55.702Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T21:26:55.702Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T21:26:55.702Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T21:26:55.702Z",
+   "kind": "reject",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T21:27:22.641Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T21:28:26.204Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "PR keeps moving after review: Agent Merge fixes feedback and CI failures",
+   "href": "https://vibecoding.tech/news/2026/09/22/vscode-agent-merge-pr-review"
+  },
+  {
+   "t": "2026-09-22T21:29:25.132Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "A Claude subscription does not cover third-party tools: an API key is required",
+   "href": "https://vibecoding.tech/news/2026/09/22/claude-subscription-third-party-tools"
+  },
+  {
+   "t": "2026-09-22T21:30:28.653Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Testing AI agents gets easier: a set of 8 skills for evals",
+   "href": "https://vibecoding.tech/news/2026/09/22/evals-skills-for-codex"
+  },
+  {
+   "t": "2026-09-22T21:31:12.186Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "A 3D world from a single prompt: Opus 5.5 built 1906 San Francisco",
+   "href": "https://vibecoding.tech/news/2026/09/22/opus-5-5-blender-world"
+  },
+  {
+   "t": "2026-09-22T21:32:00.954Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Lovable's Build Process Chooses Its Own AI: Claude Opus 5.5 and GPT-5.6 Sol",
+   "href": "https://vibecoding.tech/news/2026/09/22/lovable-model-routing-opus-gpt"
+  },
+  {
+   "t": "2026-09-22T21:32:33.988Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Claude on mobile now supports account switching: support arrived on September 22",
+   "href": "https://vibecoding.tech/news/2026/09/22/claude-mobile-multiple-accounts"
+  },
+  {
+   "t": "2026-09-22T21:33:35.201Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Windows Prepares a Separate Space for AI Agents: An Agent Will Get Its Own Account",
+   "href": "https://vibecoding.tech/news/2026/09/22/windows-agent-identities"
+  },
+  {
+   "t": "2026-09-22T21:40:59.202Z",
+   "kind": "in",
+   "head": "arrived · eng",
+   "detail": "I really want to call Jev style models classification models but apparently everyone calls them decision models now?"
+  },
+  {
+   "t": "2026-09-22T21:44:22.957Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T21:44:22.957Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T21:44:22.957Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T21:44:22.957Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T21:44:22.957Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T21:44:22.957Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T21:44:22.957Z",
+   "kind": "reject",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T21:44:49.280Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T21:44:49.280Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T21:44:49.280Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T21:44:49.280Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T21:44:49.280Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T22:05:34.893Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T22:05:41.885Z",
+   "kind": "in",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T22:11:32.615Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Long GitHub Copilot tasks will get shorter: Claude Opus 5.5 promises fewer steps",
+   "href": "https://vibecoding.tech/news/2026/09/23/claude-opus-55-copilot"
+  },
+  {
+   "t": "2026-09-22T22:22:33.155Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T22:22:33.155Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T22:22:33.155Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T22:23:33.046Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Repeat GPT-6 requests will cost less: cache discount up to 90%",
+   "href": "https://vibecoding.tech/news/2026/09/23/gpt-6-prompt-cache-discount"
+  },
+  {
+   "t": "2026-09-22T22:24:22.262Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "ChatGPT on macOS 27 may crash: Astra finds a 14-year-old leak in libuv",
+   "href": "https://vibecoding.tech/news/2026/09/22/chatgpt-libuv-memory-leak"
+  },
+  {
+   "t": "2026-09-22T22:35:38.870Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Claude limits can be reset early: Reset arrives on web and Desktop",
+   "href": "https://vibecoding.tech/news/2026/09/23/claude-usage-reset-opus"
+  },
+  {
+   "t": "2026-09-22T22:36:46.635Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "GPT-6 Sol is half the price of Opus 5.5: $2 per million input tokens",
+   "href": "https://vibecoding.tech/news/2026/09/23/gpt-6-sol-vs-opus-5-5"
+  },
+  {
+   "t": "2026-09-22T22:37:37.860Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Video annotation checked in motion: Claude Opus 5.5 versus GPT-6 Astra",
+   "href": "https://vibecoding.tech/news/2026/09/23/opus-55-astra-data-labeling"
+  },
+  {
+   "t": "2026-09-22T22:38:22.512Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "AI gets cheaper for the same task: price drops 47% per quarter",
+   "href": "https://vibecoding.tech/news/2026/09/23/ai-cost-falls-per-quarter"
+  },
+  {
+   "t": "2026-09-22T22:39:06.151Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Claude built a 3D furniture layout: Opus 5.5 made a simulator",
+   "href": "https://vibecoding.tech/news/2026/09/23/claude-opus-furniture-simulator"
+  },
+  {
+   "t": "2026-09-22T22:40:10.088Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Conversation transcription has fewer errors: StepAudio 3 ASR cut them to 1.7%",
+   "href": "https://vibecoding.tech/news/2026/09/22/stepaudio-3-asr-accuracy"
+  },
+  {
+   "t": "2026-09-22T22:40:46.823Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Bolt helps avoid wasting tokens on edits: Plan Mode does not modify code",
+   "href": "https://vibecoding.tech/news/2026/09/22/bolt-token-saving-habits"
+  },
+  {
+   "t": "2026-09-22T22:51:33.080Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T22:51:33.080Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T22:51:33.080Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T22:51:33.080Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T22:51:33.080Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T22:51:33.080Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T22:51:33.080Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T22:52:03.425Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T22:52:03.425Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T23:05:51.832Z",
+   "kind": "in",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T23:12:07.202Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T23:12:07.202Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T23:12:07.202Z",
+   "kind": "reject",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T23:13:11.714Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "In Next.js, the choice shifted to price: three models scored 97%",
+   "href": "https://vibecoding.tech/news/2026/09/23/nextjs-evals-model-price"
+  },
+  {
+   "t": "2026-09-22T23:24:22.511Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Claude built an interactive 3D hand: Higgsfield connected Opus 5.5",
+   "href": "https://vibecoding.tech/news/2026/09/23/higgsfield-claude-3d-hand"
+  },
+  {
+   "t": "2026-09-22T23:40:53.945Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Grok 4.7 closes in on coding leaders: 94% in Next.js tests",
+   "href": "https://vibecoding.tech/news/2026/09/23/grok-47-nextjs-evals"
+  },
+  {
+   "t": "2026-09-22T23:51:38.459Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T23:51:38.459Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T23:51:38.459Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T23:51:38.459Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T23:51:38.459Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T23:51:38.459Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-22T23:59:40.043Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Claude Opus 5.5 did not get more expensive per task: $5.98 in Intelligence Index",
+   "href": "https://vibecoding.tech/news/2026/09/23/opus-55-cost-per-task"
+  },
+  {
+   "t": "2026-09-23T00:00:01.904Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Jev separates solution from text: $0.042 per 1 million input tokens",
+   "href": "https://vibecoding.tech/news/2026/09/23/jev-typed-decisions-api"
+  },
+  {
+   "t": "2026-09-23T00:01:07.139Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Apps can be built from Claude: Opus 5.5 created chess in Higgsfield",
+   "href": "https://vibecoding.tech/news/2026/09/23/claude-opus-higgsfield-chess-game"
+  },
+  {
+   "t": "2026-09-23T00:02:04.161Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Peter Young built his own ride with Opus 5.5: 30 seconds of flight",
+   "href": "https://vibecoding.tech/news/2026/09/23/opus-55-virtual-ride"
+  },
+  {
+   "t": "2026-09-23T00:02:31.410Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Fewer Blind Spots in AI Agent Chains: LangSmith Shows Model Decisions",
+   "href": "https://vibecoding.tech/news/2026/09/22/langsmith-jev-tracing-ui"
+  },
+  {
+   "t": "2026-09-23T00:02:56.808Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "3 Models Are Available in Tidewave: Opus 5.5, Sol 6 and Luna 6",
+   "href": "https://vibecoding.tech/news/2026/09/22/tidewave-opus-sol-luna"
+  },
+  {
+   "t": "2026-09-23T00:03:57.724Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "PRs Merge Faster at MeshLLM: Measurement After Switching to Buzz Shows an Almost Twofold Drop",
+   "href": "https://vibecoding.tech/news/2026/09/22/meshllm-buzz-pr-merge-time"
+  },
+  {
+   "t": "2026-09-23T00:15:19.291Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "English does not explain TTS quality: Sonic leads in 8 of 9 languages",
+   "href": "https://vibecoding.tech/news/2026/09/22/multilingual-tts-arena-rankings"
+  },
+  {
+   "t": "2026-09-23T00:20:44.410Z",
+   "kind": "in",
+   "head": "arrived · eng",
+   "detail": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived — Visual FoxPro stopped at version 9 in 2007. A surprising amount of it is still running, in 32 bits, becau"
+  },
+  {
+   "t": "2026-09-23T00:25:54.331Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T00:27:05.060Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "A commercial video in Higgsfield with Opus 5.5 cost $50: comparison with GPT-6 Astra",
+   "href": "https://vibecoding.tech/news/2026/09/22/opus-55-vs-gpt6-astra"
+  },
+  {
+   "t": "2026-09-23T00:48:41.428Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T00:48:41.428Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T00:48:41.428Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T00:48:41.428Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T00:48:41.428Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T00:48:41.428Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T00:48:41.428Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T00:48:41.428Z",
+   "kind": "reject",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T00:57:09.527Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Race conditions can be found with a formal model: Opus 5.5 prepared 16 PRs for Agent SDK",
+   "href": "https://vibecoding.tech/news/2026/09/23/formal-verification-agent-sdk"
+  },
+  {
+   "t": "2026-09-23T01:07:46.042Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T01:08:25.904Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Video drafts can be run more cheaply: Seedance 2.5 in Pika from 10 cents per second",
+   "href": "https://vibecoding.tech/news/2026/09/23/pika-seedance-draft-mode"
+  },
+  {
+   "t": "2026-09-23T01:09:12.786Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Running an AI agent patch is not enough: SlopCodeBench solved no task end-to-end",
+   "href": "https://vibecoding.tech/news/2026/09/23/slopcodebench-code-review-evals"
+  },
+  {
+   "t": "2026-09-23T01:10:00.620Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Capy speeds up PR work: Garry Tan ranks it above Codex and Claude Code individually",
+   "href": "https://vibecoding.tech/news/2026/09/23/capy-pr-workflow-garry-tan"
+  },
+  {
+   "t": "2026-09-23T01:10:56.717Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "You can build a 3D game with text: Higgsfield connects Claude Opus 5.5 to MCP",
+   "href": "https://vibecoding.tech/news/2026/09/23/higgsfield-opus-55-3d-game"
+  },
+  {
+   "t": "2026-09-23T01:11:46.954Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "AI builds a prosthetic hand project: Opus 5.5 and GPT-6 Sol prepared CAD and a website",
+   "href": "https://vibecoding.tech/news/2026/09/23/opus-gpt6-prosthetic-hand"
+  },
+  {
+   "t": "2026-09-23T01:12:25.267Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Rust code can be sped up with AI agents: 2.0x in the author's example",
+   "href": "https://vibecoding.tech/news/2026/09/22/agent-rust-performance-loop"
+  },
+  {
+   "t": "2026-09-23T01:20:41.730Z",
+   "kind": "in",
+   "head": "arrived · eng",
+   "detail": "OpenAI wants to consult elite mathematicians about how to not fumble again — After turning a string of spectacular mathematical results into a reputational crisis, OpenAI"
+  },
+  {
+   "t": "2026-09-23T01:24:26.942Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T01:24:26.942Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T01:43:17.166Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T01:43:38.203Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "A fake confession can be created with a dead person's voice: a 13-second Robin Williams clip",
+   "href": "https://vibecoding.tech/news/2026/09/22/robin-williams-ai-fake-video"
+  },
+  {
+   "t": "2026-09-23T01:56:21.105Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T01:56:21.105Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T02:05:18.400Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "A broken form can be handed to an agent: OpenCode found a hidden required field",
+   "href": "https://vibecoding.tech/news/2026/09/23/opencode-fixes-hidden-form-field"
+  },
+  {
+   "t": "2026-09-23T02:05:55.488Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Long projects cannot keep up with models: Astra limit reset 6 times",
+   "href": "https://vibecoding.tech/news/2026/09/23/long-projects-model-churn"
+  },
+  {
+   "t": "2026-09-23T02:23:52.590Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Repeat GPT-6 requests will get cheaper: cache lasts 30 minutes",
+   "href": "https://vibecoding.tech/news/2026/09/23/gpt-6-prompt-caching"
+  },
+  {
+   "t": "2026-09-23T02:24:18.657Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "A smartphone will be able to run AI on-device: Qualcomm chip for a 30 billion-parameter model",
+   "href": "https://vibecoding.tech/news/2026/09/22/qualcomm-local-ai-chip"
+  },
+  {
+   "t": "2026-09-23T02:24:58.680Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T02:25:43.493Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T02:26:55.787Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Microsoft Accounts Taken Over Without Passwords: EvilTokens Compromised 12,000 Mailboxes",
+   "href": "https://vibecoding.tech/news/2026/09/22/eviltokens-device-code-phishing"
+  },
+  {
+   "t": "2026-09-23T02:35:41.257Z",
+   "kind": "in",
+   "head": "arrived · eng",
+   "detail": "How would AI actually ‘kill all humans’? Here are the top five most likely scenarios | Toby Walsh — From a dangerous new bioweapon to total societal breakdown, is a ‘supe"
+  },
+  {
+   "t": "2026-09-23T02:39:42.759Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T02:39:42.759Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T02:40:11.972Z",
+   "kind": "reject",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T02:42:06.940Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "ChatGPT Logs Sought for Court Disclosure: Lawsuit Filed After School Attack on 21 September",
+   "href": "https://vibecoding.tech/news/2026/09/22/chatgpt-logs-school-shooting-lawsuit"
+  },
+  {
+   "t": "2026-09-23T02:55:03.221Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "AI data became a billion-dollar business: Snorkel valued at $3.5 billion",
+   "href": "https://vibecoding.tech/news/2026/09/23/snorkel-ai-data-service-funding"
+  },
+  {
+   "t": "2026-09-23T02:55:41.934Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Benchmarks can be independently checked: UK AISI releases configurations for 5 tests",
+   "href": "https://vibecoding.tech/news/2026/09/22/aisi-reproducible-benchmark-results"
+  },
+  {
+   "t": "2026-09-23T03:08:25.823Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T03:09:13.306Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "iPhone buyers can claim a payout: up to $95 per device",
+   "href": "https://vibecoding.tech/news/2026/09/22/iphone-siri-settlement-claims"
+  },
+  {
+   "t": "2026-09-23T03:09:48.526Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T03:35:49.723Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T03:36:24.240Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Fear of AI Reaches Labs: Stress at 4 Organizations",
+   "href": "https://vibecoding.tech/news/2026/09/22/ai-lab-stress-report"
+  },
+  {
+   "t": "2026-09-23T03:36:47.854Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Agent-powered research got cheaper: GPT-6 Astra cut Parallel's costs by 50%",
+   "href": "https://vibecoding.tech/news/2026/09/22/gpt-6-astra-parallel-research"
+  },
+  {
+   "t": "2026-09-23T03:37:35.871Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "C++ project search in Copilot CLI got faster: the index stores all code",
+   "href": "https://vibecoding.tech/news/2026/09/23/copilot-cli-cpp-indexing"
+  },
+  {
+   "t": "2026-09-23T03:51:25.880Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T03:51:59.079Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T03:51:59.079Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T03:54:31.583Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "AI agents built a space tactics game: Fable and Opus accounted for orbits, fuel and heat",
+   "href": "https://vibecoding.tech/news/2026/09/23/ai-starship-combat-game"
+  },
+  {
+   "t": "2026-09-23T03:55:00.716Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "GitHub Copilot agent work can be examined step by step: OTel is enabled in company settings",
+   "href": "https://vibecoding.tech/news/2026/09/23/copilot-app-opentelemetry-settings"
+  },
+  {
+   "t": "2026-09-23T04:08:44.361Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "JetBrains agent waits for fewer clicks: Copilot 1.18.0 auto-approves low-risk calls",
+   "href": "https://vibecoding.tech/news/2026/09/23/copilot-jetbrains-assisted-approvals"
+  },
+  {
+   "t": "2026-09-23T04:21:37.297Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T04:21:37.297Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T04:22:07.430Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T04:22:26.467Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Meta's New Assistant Looks Like Someone Else's: Muse Was Inspired by OpenClaw",
+   "href": "https://vibecoding.tech/news/2026/09/22/meta-muse-openclaw"
+  },
+  {
+   "t": "2026-09-23T04:22:45.469Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T04:46:32.458Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T04:48:09.312Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T04:48:30.085Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Claude Opus 5.5 cuts AI agent costs by 40% versus Opus 5",
+   "href": "https://vibecoding.tech/news/2026/09/23/claude-opus-5-5-cost"
+  },
+  {
+   "t": "2026-09-23T04:48:49.580Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "OpenAI invites mathematicians to an independent council: panel announced on September 21",
+   "href": "https://vibecoding.tech/news/2026/09/23/openai-mathematicians-independent-panel"
+  },
+  {
+   "t": "2026-09-23T04:49:12.822Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T04:50:37.870Z",
+   "kind": "in",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T05:01:58.130Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T05:02:25.422Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T05:37:54.804Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T05:49:49.228Z",
+   "kind": "reject",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T06:42:32.158Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T06:44:44.963Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Working with Opus 5.5 got cheaper: API is 20% below Opus 5",
+   "href": "https://vibecoding.tech/news/2026/09/23/opus-5-5-api-pricing"
+  },
+  {
+   "t": "2026-09-23T07:05:38.242Z",
+   "kind": "in",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T07:38:59.734Z",
+   "kind": "in",
+   "head": "arrived · eng",
+   "detail": "Notice how the AI labs who are the most “AI-pilled” and have unlimited AI tokens to use per employee keep hiring and hiring, and are not laying off?\n\nHeard from a company"
+  },
+  {
+   "t": "2026-09-23T08:15:49.523Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T08:15:49.523Z",
+   "kind": "reject",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T08:16:27.832Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T08:16:27.832Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T08:23:06.789Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T08:31:02.930Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T08:31:02.930Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T08:35:48.104Z",
+   "kind": "in",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T08:40:24.806Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T08:40:24.806Z",
+   "kind": "reject",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T08:49:43.680Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T08:49:43.680Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T08:54:52.889Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "OpenClaw will sort out messages itself: decision model will choose steer or queue",
+   "href": "https://vibecoding.tech/news/2026/09/23/openclaw-decision-model-queue"
+  },
+  {
+   "t": "2026-09-23T08:55:58.327Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "CodexBar adds 12 more services: list grows in weeks",
+   "href": "https://vibecoding.tech/news/2026/09/23/codexbar-new-service-integrations"
+  },
+  {
+   "t": "2026-09-23T09:20:38.194Z",
+   "kind": "in",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T09:20:42.097Z",
+   "kind": "in",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T09:22:27.233Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T09:22:27.233Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T09:22:27.233Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T09:22:27.233Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T09:22:27.233Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T09:22:27.233Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T09:22:27.233Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T09:22:27.233Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T09:22:27.233Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T09:22:27.233Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T09:22:27.233Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T09:22:27.233Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T09:22:59.693Z",
+   "kind": "reject",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T09:33:08.686Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T09:34:04.845Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T09:34:46.288Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T09:36:00.923Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T09:37:05.862Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T09:37:37.877Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T09:38:17.807Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T09:51:13.386Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T09:51:13.386Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T10:01:40.613Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Qwen-Audio Cuts Audio Transcription Prices: ASR Is Up to 95% Cheaper",
+   "href": "https://vibecoding.tech/news/2026/09/23/qwen-audio-price-cuts"
+  },
+  {
+   "t": "2026-09-23T10:02:21.737Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T10:16:44.092Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T10:20:37.441Z",
+   "kind": "in",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T10:30:19.477Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T10:30:19.477Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T10:30:19.477Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T10:30:19.477Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T10:30:19.477Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T10:30:19.477Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T10:30:19.477Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T10:30:19.477Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T10:30:19.477Z",
+   "kind": "reject",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T10:30:44.906Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T10:35:44.669Z",
+   "kind": "in",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T10:42:44.774Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T10:43:47.191Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T10:44:10.614Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T10:45:02.779Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T10:45:32.479Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T10:46:30.753Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "AI Handles a Fifth of Freelance Tasks: GPT-6 Astra Scores 20.83% on RLI",
+   "href": "https://vibecoding.tech/news/2026/09/23/gpt-6-astra-rli-score"
+  },
+  {
+   "t": "2026-09-23T10:47:08.860Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T11:00:35.913Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T11:02:11.030Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T11:17:08.644Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T11:30:22.249Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T11:30:22.249Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T11:33:34.957Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Drivers and sellers embrace AI: Grab will train 30,000 partners",
+   "href": "https://vibecoding.tech/news/2026/09/23/grab-openai-ai-skills"
+  },
+  {
+   "t": "2026-09-23T11:35:38.053Z",
+   "kind": "in",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T11:35:52.200Z",
+   "kind": "in",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T11:50:17.233Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T11:50:17.233Z",
+   "kind": "reject",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T11:51:11.395Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T11:51:11.395Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T11:51:11.395Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T11:51:11.395Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T11:51:11.395Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T11:51:11.395Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T11:51:11.395Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T11:51:11.395Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T11:51:48.111Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T11:51:48.111Z",
+   "kind": "reject",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T12:00:20.321Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Omarchy Becomes Fully Customizable: 4,000 Plugins Published",
+   "href": "https://vibecoding.tech/news/2026/09/23/omarchy-four-thousand-plugins"
+  },
+  {
+   "t": "2026-09-23T12:00:57.974Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T12:02:22.502Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T12:03:31.287Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Automation Reshapes Telecom Workforce: AT&T Cuts 10,100 Employees",
+   "href": "https://vibecoding.tech/news/2026/09/23/att-automation-job-cuts"
+  },
+  {
+   "t": "2026-09-23T12:04:09.669Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T12:05:01.242Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T12:05:46.332Z",
+   "kind": "serve",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T12:05:49.493Z",
+   "kind": "in",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T12:20:15.268Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Gemini CLI gets new Flash models: September 23 nightly build",
+   "href": "https://vibecoding.tech/news/2026/09/23/gemini-cli-flash-models"
+  },
+  {
+   "t": "2026-09-23T13:20:44.866Z",
+   "kind": "in",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T13:40:13.354Z",
+   "kind": "in",
+   "head": "arrived · eng",
+   "detail": "One of the reasons crime numbers are going down in many places around the world and especially in Europe is that police simply won't let you report crimes anymore\n\nIt's c"
+  },
+  {
+   "t": "2026-09-23T14:05:56.374Z",
+   "kind": "in",
+   "head": "arrived · eng",
+   "detail": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026 — 3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a "
+  },
+  {
+   "t": "2026-09-23T14:40:19.662Z",
+   "kind": "in",
+   "head": "arrived · eng",
+   "detail": "Can you find it?"
+  },
+  {
+   "t": "2026-09-23T14:53:11.217Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T14:53:11.217Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T14:53:11.217Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T14:53:11.217Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T14:53:11.217Z",
+   "kind": "reject",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T14:53:50.813Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T14:53:50.813Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T14:53:50.813Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T14:55:51.334Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T14:55:51.334Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T14:55:51.334Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T14:55:51.334Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T14:55:51.334Z",
+   "kind": "reject",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T14:57:43.441Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T14:57:43.441Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T14:57:43.441Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T14:57:43.441Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T14:57:43.441Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T14:57:43.441Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T14:57:43.441Z",
+   "kind": "reject",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T14:58:55.929Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T14:58:55.929Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T14:58:55.929Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T15:00:08.518Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T15:00:08.518Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T15:00:08.518Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T15:00:08.518Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T15:00:08.518Z",
+   "kind": "reject",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T15:05:40.168Z",
+   "kind": "in",
+   "head": "arrived · eng",
+   "detail": "I Don't Want the Details"
+  },
+  {
+   "t": "2026-09-23T15:10:50.939Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "The more bugs an agent fixes, the costlier the run: 37 Bug Hunt Bench models",
+   "href": "https://vibecoding.tech/news/2026/09/23/bug-hunt-price-curve"
+  },
+  {
+   "t": "2026-09-23T15:11:58.536Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "PR review now starts with intent: CodeRabbit links code to change goals",
+   "href": "https://vibecoding.tech/news/2026/09/23/coderabbit-change-stack-pr-review"
+  },
+  {
+   "t": "2026-09-23T15:12:51.441Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Qwen gives smartphones end-to-end tasks: Mobile-Use Agent completes 90%",
+   "href": "https://vibecoding.tech/news/2026/09/23/qwen-mobile-agents"
+  },
+  {
+   "t": "2026-09-23T15:13:30.730Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Clinical audio is transcribed more accurately: Scribe v2 Medical cuts errors by 35%",
+   "href": "https://vibecoding.tech/news/2026/09/23/scribe-v2-medical-clinical-audio"
+  },
+  {
+   "t": "2026-09-23T15:14:42.265Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Vibe coding cuts business costs: levelsio has a 94.5% margin",
+   "href": "https://vibecoding.tech/news/2026/09/23/levelsio-vibecoding-profit-margin"
+  },
+  {
+   "t": "2026-09-23T15:15:21.723Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "AI got cheaper for everyday agents: Wes Bos finds deals from video",
+   "href": "https://vibecoding.tech/news/2026/09/23/thrift-store-scanning-agent"
+  },
+  {
+   "t": "2026-09-23T15:16:12.300Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Spotify lets messages change recommendations: Taste Profile launches in the US",
+   "href": "https://vibecoding.tech/news/2026/09/23/spotify-taste-profile-us-launch"
+  },
+  {
+   "t": "2026-09-23T15:16:37.162Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Meta's AI agent reaches Mac: Muse is available as a standalone app",
+   "href": "https://vibecoding.tech/news/2026/09/23/meta-muse-mac-app"
+  },
+  {
+   "t": "2026-09-23T15:32:01.749Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Pay for AI by completed tasks: Ema raises $77 million",
+   "href": "https://vibecoding.tech/news/2026/09/23/ema-series-b-task-pricing"
+  },
+  {
+   "t": "2026-09-23T15:45:02.332Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T15:45:02.332Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T15:45:02.332Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T15:45:02.332Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T15:45:02.332Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T15:45:02.332Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T15:45:02.332Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T15:45:02.332Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T15:45:02.332Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T15:45:02.332Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T15:45:22.281Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T15:45:22.281Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T15:45:22.281Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T15:57:19.495Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Web animation can be handed off to an AI agent: Higgsfield built a water cycle in one HTML file",
+   "href": "https://vibecoding.tech/news/2026/09/23/higgsfield-water-cycle-html"
+  },
+  {
+   "t": "2026-09-23T16:05:38.210Z",
+   "kind": "in",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T16:06:01.455Z",
+   "kind": "in",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T16:10:34.822Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T16:10:34.822Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T16:10:34.822Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T16:10:34.822Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T16:10:34.822Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T16:10:34.822Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T16:10:34.822Z",
+   "kind": "reject",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T16:11:04.059Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T16:11:04.059Z",
+   "kind": "reject",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T16:21:30.436Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "OpenCode 2 changes reach every session immediately: no /reload or restart",
+   "href": "https://vibecoding.tech/news/2026/09/23/opencode-v2-live-reload"
+  },
+  {
+   "t": "2026-09-23T16:22:52.879Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "AI-agent factories have hit a product wall: 5–10 billion tokens a day",
+   "href": "https://vibecoding.tech/news/2026/09/23/agent-factories-token-burn"
+  },
+  {
+   "t": "2026-09-23T16:23:42.341Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "No need to split a long task: Space Bunny Alpha handles 1 million tokens",
+   "href": "https://vibecoding.tech/news/2026/09/23/space-bunny-alpha-openrouter"
+  },
+  {
+   "t": "2026-09-23T16:25:18.317Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Game builds in Claude can be assigned to Opus 5.5: Higgsfield built a flight simulator",
+   "href": "https://vibecoding.tech/news/2026/09/23/opus-55-flight-simulator"
+  },
+  {
+   "t": "2026-09-23T16:26:35.851Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Change the voiceover without rewriting the API: two Gemini 3.8 TTS models use the same interface",
+   "href": "https://vibecoding.tech/news/2026/09/23/gemini-38-flash-tts-api"
+  },
+  {
+   "t": "2026-09-23T16:35:46.480Z",
+   "kind": "in",
+   "head": "arrived · eng",
+   "detail": "Americans are turning to AI to survive a brutal housing market—37% would let it buy their next home with 'minimal human involvement' — The average rate on a 30-year fixed"
+  },
+  {
+   "t": "2026-09-23T16:40:30.414Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T16:41:20.501Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T16:41:20.501Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T16:41:20.501Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T16:41:20.501Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T16:41:20.501Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T16:46:15.910Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Google voice generation joins the leaders: Gemini 3.8 Flash TTS ranks No. 2 in Arena",
+   "href": "https://vibecoding.tech/news/2026/09/23/gemini-38-flash-tts-rank"
+  },
+  {
+   "t": "2026-09-23T16:46:48.988Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Cursor makes agent work cheaper: token costs cut by 7%",
+   "href": "https://vibecoding.tech/news/2026/09/23/cursor-token-costs-seven-percent"
+  },
+  {
+   "t": "2026-09-23T16:47:09.689Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Voice for your app now comes from a prompt: Gemini speaks 100+ languages",
+   "href": "https://vibecoding.tech/news/2026/09/23/gemini-38-text-to-speech"
+  },
+  {
+   "t": "2026-09-23T16:50:39.472Z",
+   "kind": "in",
+   "head": "arrived · eng",
+   "detail": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI — Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cos"
+  },
+  {
+   "t": "2026-09-23T17:00:17.633Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T17:00:17.633Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T17:00:17.633Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T17:00:17.633Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T17:00:17.633Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T17:00:17.633Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T17:00:17.633Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T17:00:52.972Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "YouTube feed now listens to your prompt: Gemini powers Custom Feeds",
+   "href": "https://vibecoding.tech/news/2026/09/23/youtube-custom-feeds-gemini"
+  },
+  {
+   "t": "2026-09-23T17:01:16.782Z",
+   "kind": "serve",
+   "head": "served to the site",
+   "detail": "Personal AI will be able to retain context longer: Google adds server-side memory",
+   "href": "https://vibecoding.tech/news/2026/09/23/private-ai-server-memory"
+  },
+  {
+   "t": "2026-09-23T17:14:10.502Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T17:14:10.502Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T17:14:10.502Z",
+   "kind": "reject",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T17:26:59.716Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T17:38:34.298Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T17:50:44.998Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T17:50:44.998Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T17:50:44.998Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T18:05:49.239Z",
+   "kind": "in",
+   "head": "arrived · eng",
+   "detail": "Ghost Jet- Bad Makson — &#32; submitted by &#32; /u/CrashFireTV [link] &#32; [comments]"
+  },
+  {
+   "t": "2026-09-23T18:14:59.281Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T18:14:59.281Z",
+   "kind": "reject",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T18:20:47.620Z",
+   "kind": "in",
+   "head": "arrived · eng",
+   "detail": "Anthropic’s biolab made a discovery it’s comparing to Crispr — Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind "
+  },
+  {
+   "t": "2026-09-23T18:26:01.482Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T18:26:01.482Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T18:26:01.482Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T18:26:01.482Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T18:26:01.482Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T18:26:15.931Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T18:42:42.757Z",
+   "kind": "in",
+   "head": "arrived · eng",
+   "detail": "Do you need a mode? \nWhen the conversation's with the code? \n\nhttps://delta.dev/download"
+  },
+  {
+   "t": "2026-09-23T18:47:43.228Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T18:47:43.228Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T18:47:43.228Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T18:47:43.228Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T18:47:43.228Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T18:47:43.228Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T18:47:43.228Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T18:47:43.228Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T18:47:43.228Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T19:27:03.084Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T19:27:03.084Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T19:37:41.436Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T19:41:08.543Z",
+   "kind": "in",
+   "head": "arrived · eng",
+   "detail": "Meet Memebench\n\nWe gave 8 AI models the same meme and asked them to put @pingToven and @Audrey_Sage_ in it.\n\nFirst round, group A. Group B comes tomorrow.\n\nWhich model co"
+  },
+  {
+   "t": "2026-09-23T19:48:40.650Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T19:48:40.650Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T19:48:40.650Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T19:48:40.650Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T19:48:40.650Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T19:48:40.650Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T19:48:40.650Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T19:49:05.779Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T19:49:05.779Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T19:49:05.779Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T19:49:05.779Z",
+   "kind": "reject",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T20:12:12.404Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T20:12:12.404Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T20:12:12.404Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T20:12:12.404Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T20:20:37.506Z",
+   "kind": "in",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T20:36:39.922Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T20:36:39.922Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T20:36:39.922Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T20:37:02.415Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T20:37:02.415Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T20:47:54.440Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T20:47:54.440Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T20:47:54.440Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T20:47:54.440Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T20:47:54.440Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T20:47:54.440Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T20:47:54.440Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  },
+  {
+   "t": "2026-09-23T20:47:54.440Z",
+   "kind": "take",
+   "head": "",
+   "detail": ""
+  }
+ ],
+ "intake": [
+  {
+   "t": "2026-09-22T21:30:00.000Z",
+   "n": 35
+  },
+  {
+   "t": "2026-09-22T21:40:00.000Z",
+   "n": 52
+  },
+  {
+   "t": "2026-09-22T21:50:00.000Z",
+   "n": 75
+  },
+  {
+   "t": "2026-09-22T22:00:00.000Z",
+   "n": 77
+  },
+  {
+   "t": "2026-09-22T22:10:00.000Z",
+   "n": 95
+  },
+  {
+   "t": "2026-09-22T22:40:00.000Z",
+   "n": 104
+  },
+  {
+   "t": "2026-09-22T22:50:00.000Z",
+   "n": 113
+  },
+  {
+   "t": "2026-09-22T23:10:00.000Z",
+   "n": 136
+  },
+  {
+   "t": "2026-09-22T23:40:00.000Z",
+   "n": 148
+  },
+  {
+   "t": "2026-09-22T23:50:00.000Z",
+   "n": 162
+  },
+  {
+   "t": "2026-09-23T00:10:00.000Z",
+   "n": 164
+  },
+  {
+   "t": "2026-09-23T00:30:00.000Z",
+   "n": 168
+  },
+  {
+   "t": "2026-09-23T00:40:00.000Z",
+   "n": 186
+  },
+  {
+   "t": "2026-09-23T00:50:00.000Z",
+   "n": 193
+  },
+  {
+   "t": "2026-09-23T01:10:00.000Z",
+   "n": 197
+  },
+  {
+   "t": "2026-09-23T01:30:00.000Z",
+   "n": 205
+  },
+  {
+   "t": "2026-09-23T01:40:00.000Z",
+   "n": 216
+  },
+  {
+   "t": "2026-09-23T01:50:00.000Z",
+   "n": 221
+  },
+  {
+   "t": "2026-09-23T02:10:00.000Z",
+   "n": 222
+  },
+  {
+   "t": "2026-09-23T02:30:00.000Z",
+   "n": 232
+  },
+  {
+   "t": "2026-09-23T02:40:00.000Z",
+   "n": 244
+  },
+  {
+   "t": "2026-09-23T02:50:00.000Z",
+   "n": 246
+  },
+  {
+   "t": "2026-09-23T03:10:00.000Z",
+   "n": 247
+  },
+  {
+   "t": "2026-09-23T03:40:00.000Z",
+   "n": 266
+  },
+  {
+   "t": "2026-09-23T03:50:00.000Z",
+   "n": 267
+  },
+  {
+   "t": "2026-09-23T04:00:00.000Z",
+   "n": 270
+  },
+  {
+   "t": "2026-09-23T04:30:00.000Z",
+   "n": 273
+  },
+  {
+   "t": "2026-09-23T04:40:00.000Z",
+   "n": 278
+  },
+  {
+   "t": "2026-09-23T05:00:00.000Z",
+   "n": 280
+  },
+  {
+   "t": "2026-09-23T05:40:00.000Z",
+   "n": 312
+  },
+  {
+   "t": "2026-09-23T05:50:00.000Z",
+   "n": 313
+  },
+  {
+   "t": "2026-09-23T06:00:00.000Z",
+   "n": 314
+  },
+  {
+   "t": "2026-09-23T06:30:00.000Z",
+   "n": 315
+  },
+  {
+   "t": "2026-09-23T06:40:00.000Z",
+   "n": 318
+  },
+  {
+   "t": "2026-09-23T07:10:00.000Z",
+   "n": 344
+  },
+  {
+   "t": "2026-09-23T07:40:00.000Z",
+   "n": 345
+  },
+  {
+   "t": "2026-09-23T07:50:00.000Z",
+   "n": 349
+  },
+  {
+   "t": "2026-09-23T08:00:00.000Z",
+   "n": 361
+  },
+  {
+   "t": "2026-09-23T08:10:00.000Z",
+   "n": 362
+  },
+  {
+   "t": "2026-09-23T08:40:00.000Z",
+   "n": 386
+  },
+  {
+   "t": "2026-09-23T08:50:00.000Z",
+   "n": 391
+  },
+  {
+   "t": "2026-09-23T09:30:00.000Z",
+   "n": 434
+  },
+  {
+   "t": "2026-09-23T09:40:00.000Z",
+   "n": 438
+  },
+  {
+   "t": "2026-09-23T09:50:00.000Z",
+   "n": 445
+  },
+  {
+   "t": "2026-09-23T10:10:00.000Z",
+   "n": 458
+  },
+  {
+   "t": "2026-09-23T10:30:00.000Z",
+   "n": 490
+  },
+  {
+   "t": "2026-09-23T10:40:00.000Z",
+   "n": 504
+  },
+  {
+   "t": "2026-09-23T10:50:00.000Z",
+   "n": 507
+  },
+  {
+   "t": "2026-09-23T11:00:00.000Z",
+   "n": 509
+  },
+  {
+   "t": "2026-09-23T11:30:00.000Z",
+   "n": 511
+  },
+  {
+   "t": "2026-09-23T11:40:00.000Z",
+   "n": 582
+  },
+  {
+   "t": "2026-09-23T12:10:00.000Z",
+   "n": 600
+  },
+  {
+   "t": "2026-09-23T12:40:00.000Z",
+   "n": 605
+  },
+  {
+   "t": "2026-09-23T12:50:00.000Z",
+   "n": 610
+  },
+  {
+   "t": "2026-09-23T13:00:00.000Z",
+   "n": 613
+  },
+  {
+   "t": "2026-09-23T13:30:00.000Z",
+   "n": 633
+  },
+  {
+   "t": "2026-09-23T13:40:00.000Z",
+   "n": 648
+  },
+  {
+   "t": "2026-09-23T13:50:00.000Z",
+   "n": 661
+  },
+  {
+   "t": "2026-09-23T14:00:00.000Z",
+   "n": 688
+  },
+  {
+   "t": "2026-09-23T14:10:00.000Z",
+   "n": 709
+  },
+  {
+   "t": "2026-09-23T14:30:00.000Z",
+   "n": 714
+  },
+  {
+   "t": "2026-09-23T14:40:00.000Z",
+   "n": 724
+  },
+  {
+   "t": "2026-09-23T14:50:00.000Z",
+   "n": 734
+  },
+  {
+   "t": "2026-09-23T15:00:00.000Z",
+   "n": 795
+  },
+  {
+   "t": "2026-09-23T15:10:00.000Z",
+   "n": 796
+  },
+  {
+   "t": "2026-09-23T15:30:00.000Z",
+   "n": 797
+  },
+  {
+   "t": "2026-09-23T15:40:00.000Z",
+   "n": 810
+  },
+  {
+   "t": "2026-09-23T15:50:00.000Z",
+   "n": 836
+  },
+  {
+   "t": "2026-09-23T16:00:00.000Z",
+   "n": 837
+  },
+  {
+   "t": "2026-09-23T16:10:00.000Z",
+   "n": 883
+  },
+  {
+   "t": "2026-09-23T16:40:00.000Z",
+   "n": 912
+  },
+  {
+   "t": "2026-09-23T16:50:00.000Z",
+   "n": 923
+  },
+  {
+   "t": "2026-09-23T17:00:00.000Z",
+   "n": 938
+  },
+  {
+   "t": "2026-09-23T17:10:00.000Z",
+   "n": 949
+  },
+  {
+   "t": "2026-09-23T17:30:00.000Z",
+   "n": 950
+  },
+  {
+   "t": "2026-09-23T17:40:00.000Z",
+   "n": 972
+  },
+  {
+   "t": "2026-09-23T17:50:00.000Z",
+   "n": 993
+  },
+  {
+   "t": "2026-09-23T18:10:00.000Z",
+   "n": 1035
+  },
+  {
+   "t": "2026-09-23T18:30:00.000Z",
+   "n": 1069
+  },
+  {
+   "t": "2026-09-23T18:40:00.000Z",
+   "n": 1087
+  },
+  {
+   "t": "2026-09-23T18:50:00.000Z",
+   "n": 1097
+  },
+  {
+   "t": "2026-09-23T19:30:00.000Z",
+   "n": 1102
+  },
+  {
+   "t": "2026-09-23T19:40:00.000Z",
+   "n": 1130
+  },
+  {
+   "t": "2026-09-23T19:50:00.000Z",
+   "n": 1147
+  },
+  {
+   "t": "2026-09-23T20:00:00.000Z",
+   "n": 1161
+  },
+  {
+   "t": "2026-09-23T20:10:00.000Z",
+   "n": 1166
+  },
+  {
+   "t": "2026-09-23T20:30:00.000Z",
+   "n": 1167
+  },
+  {
+   "t": "2026-09-23T20:40:00.000Z",
+   "n": 1200
+  },
+  {
+   "t": "2026-09-23T20:50:00.000Z",
+   "n": 1213
+  },
+  {
+   "t": "2026-09-23T21:00:00.000Z",
+   "n": 1216
+  }
+ ]
+}

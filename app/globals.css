@@ -1,0 +1,100 @@
+@import 'tailwindcss';
+
+/* `dark:` utilities apply inside any `.dark` container (the charts use it). */
+@custom-variant dark (&:is(.dark *));
+
+@theme {
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-jbmono), ui-monospace, SFMono-Regular, monospace;
+}
+
+/* Chart tokens (components/charts): light defaults, dark inside `.dark`. */
+:root {
+  --vz-surface: #ffffff;
+  --vz-frame: #e3e3e3;
+  --vz-grid: #ededed;
+  --vz-axis: #d9d9d9;
+  --vz-track: #f5f5f4;
+  --vz-ink: #111111;
+  --vz-text2: #3a3a3a;
+  --vz-text3: #5c5c5c;
+  --vz-muted: #8a8a8a;
+  --vz-muted2: #9c9c9c;
+  --vz-chip: #111111;
+  --vz-chip-ink: #ffffff;
+  --vz-ring: #ffffff;
+  --vz-hover: #f7f7f6;
+  --vz-good: #00a94f;
+  --vz-mid: #ff6d00;
+  --vz-bad: #d71921;
+}
+
+.dark {
+  --vz-surface: #0e0e11;
+  --vz-frame: #26262b;
+  --vz-grid: #1e1e23;
+  --vz-axis: #3d3d44;
+  --vz-track: #1a1a1f;
+  --vz-ink: #f2f2f0;
+  --vz-text2: #c9c9c5;
+  --vz-text3: #a3a39f;
+  --vz-muted: #8c8c8a;
+  --vz-muted2: #7e7e7c;
+  --vz-chip: #f2f2f0;
+  --vz-chip-ink: #111111;
+  --vz-ring: #0e0e11;
+  --vz-hover: #16161a;
+}
+
+@theme inline {
+  --color-vz-surface: var(--vz-surface);
+  --color-vz-frame: var(--vz-frame);
+  --color-vz-grid: var(--vz-grid);
+  --color-vz-axis: var(--vz-axis);
+  --color-vz-track: var(--vz-track);
+  --color-vz-ink: var(--vz-ink);
+  --color-vz-text2: var(--vz-text2);
+  --color-vz-text3: var(--vz-text3);
+  --color-vz-muted: var(--vz-muted);
+  --color-vz-muted2: var(--vz-muted2);
+  --color-vz-chip: var(--vz-chip);
+  --color-vz-chip-ink: var(--vz-chip-ink);
+  --color-vz-ring: var(--vz-ring);
+  --color-vz-hover: var(--vz-hover);
+  --color-vz-good: var(--vz-good);
+  --color-vz-mid: var(--vz-mid);
+  --color-vz-bad: var(--vz-bad);
+}
+
+@layer base {
+  *,
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    border-color: var(--color-gray-200, currentcolor);
+  }
+  html {
+    color-scheme: dark;
+    background: linear-gradient(#000000 50%, #f0f0f0 50%);
+    scrollbar-gutter: stable;
+  }
+  body {
+    font-family: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+    background-color: #000000;
+  }
+}
+
+[id] {
+  scroll-margin-top: 80px;
+}
+
+/* Capsule shape of header chips and footer icons: squircle where supported. */
+.sq {
+  border-radius: 999px;
+}
+@supports (corner-shape: squircle) {
+  .sq {
+    corner-shape: squircle;
+  }
+}
